@@ -1,0 +1,19 @@
+# NetBeans y Maven
+target/
+*.class
+nbproject/private/
+build/
+dist/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
