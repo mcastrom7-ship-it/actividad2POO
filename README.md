@@ -80,7 +80,6 @@ GestionEmpleados/
 ├── README.md                                   <- Documentación general
 ├── docs/
 │   ├── diagrama_clases_uml.md                  <- Diagramas UML detallados y POO
-│   ├── guion_video_youtube.md                  <- Libreto completo para el video de YouTube
 │   └── investigacion_punto_2.md                <- Investigación de POO, Patrones y SOLID
 └── src/
     └── main/
@@ -115,5 +114,4 @@ GestionEmpleados/
 ## 📖 4. Documentación y Recursos
 
 - [Diagrama de Clases UML Detallado](docs/diagrama_clases_uml.md)
-- [Guion para la Exposición en YouTube](docs/guion_video_youtube.md)
 - [Investigación Completa del Punto 2 (Patrones y SOLID)](docs/investigacion_punto_2.md)
